@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import Hero from '../../components/hero2/hero2';
+import Hero from '../../components/hero3/index';
 import Navbar from '../../components/Navbar'
 import SearchSection from '../../components/SearchSection';
 import About from '../../components/about';
